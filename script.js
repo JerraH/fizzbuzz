@@ -13,7 +13,7 @@ $(function() {
 	}
 
 	else if (i%3 === 0) {
-		$('body').append('<p>Fizzfizz</p>');
+		$('body').append('<p>Fizz</p>');
 	}
 
 	else {
