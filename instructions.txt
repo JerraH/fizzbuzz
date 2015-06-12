@@ -1,0 +1,2 @@
+A for loop starts with a counter, modifies the counter every time it runs, and repeats itself until it’s counter exceeds the condition.
+for (var i = 10; i > 0; i--) { }
